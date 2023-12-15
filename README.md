@@ -1,0 +1,1 @@
+Learn golang base on my experience with another programming language
